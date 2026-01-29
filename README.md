@@ -1,5 +1,5 @@
 <div align="center">  
-
+ 
 # 🔌 Plugin Delivery
 
 **AI Function Call Plugins & Tools for SperaxOS**
