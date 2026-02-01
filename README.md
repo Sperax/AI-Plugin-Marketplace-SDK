@@ -11,7 +11,7 @@
 [📚 Docs](#documentation) • [🚀 Quick Start](#quick-start) • [📦 Templates](#plugin-templates) • [🎨 Plugin Types](#plugin-types) • [🔧 Development](#development)
 
 </div>
-
+ 
 ---
 
 ## What Is Plugin Delivery? 
