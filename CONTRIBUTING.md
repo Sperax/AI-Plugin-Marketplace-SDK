@@ -201,3 +201,7 @@ plugin: add dexscreener integration
 ## License
 
 By contributing, you agree that your contributions will be licensed under the MIT License.
+
+## Code of Conduct
+
+Please read and follow our [Code of Conduct](CODE_OF_CONDUCT.md).
