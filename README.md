@@ -353,7 +353,7 @@ vercel --prod
 
 ```bash
 # Clone
-git clone https://github.com/nirholas/plugin.delivery.git
+git clone https://github.com/sperax/plugin.delivery.git
 cd plugins
 
 # Install
@@ -567,7 +567,7 @@ We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ### Submit a Plugin
 
-1. **Option A:** Open a [Plugin Submission](https://github.com/nirholas/plugin.delivery/issues/new?template=plugin_submission.md) issue
+1. **Option A:** Open a [Plugin Submission](https://github.com/sperax/plugin.delivery/issues/new?template=plugin_submission.md) issue
 2. **Option B:** Submit a PR adding your plugin to `src/`
 
 ### Requirements
@@ -585,10 +585,10 @@ We welcome contributions! See [CONTRIBUTING.md](./CONTRIBUTING.md).
 |----------|-----|
 | 🌐 **Plugin Index** | [plugin.delivery](https://plugin.delivery) |
 | 📦 **SDK on npm** | [@sperax/plugin-sdk](https://www.npmjs.com/package/@sperax/plugin-sdk) |
-| 🐙 **GitHub** | [github.com/nirholas/plugins](https://github.com/nirholas/plugin.delivery) |
+| 🐙 **GitHub** | [github.com/sperax/plugins](https://github.com/sperax/plugin.delivery) |
 | 🐦 **Twitter/X** | [@nichxbt](https://x.com/nichxbt) |
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/nirholas/plugin.delivery)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/sperax/plugin.delivery)
 
 ---
 
@@ -895,7 +895,7 @@ curl -X POST https://modelcontextprotocol.name/mcp/plugin-delivery \
 
 ### Also Available On
 
-- **[SperaxOS](https://speraxos.vercel.app)** — Browse and install from the [MCP marketplace](https://speraxos.vercel.app/community/mcp)
+- **[SperaxOS](https://chat.sperax.io)** — Browse and install from the [MCP marketplace](https://chat.sperax.io/community/mcp)
 - **All 27 MCP servers** — See the full catalog at [modelcontextprotocol.name](https://modelcontextprotocol.name)
 
 > Powered by [modelcontextprotocol.name](https://modelcontextprotocol.name) — the open MCP HTTP gateway
